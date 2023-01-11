@@ -1,9 +1,9 @@
-import Tiptap from "./Tiptap.jsx";
+import Tiptap from './components/Tiptap';
 import './App.css';
 
 const App = () => {
   return (
-    <div className="App">
+    <div className='App'>
       <Tiptap />
     </div>
   );
